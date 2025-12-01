@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\tests\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:tests\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\tests\\searchemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:tests\\searchemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\tests\\deleteemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:tests\\deleteemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\tests\\editemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:tests\\editemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\utils\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:utils\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\pages\\employeelistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:pages\\employeelistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\pages\\addemployeespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:pages\\addemployeespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\utils\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:utils\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|c:\\users\\emanu\\downloads\\seleniumtest_orange-hrm\\selenium_tests-sourcecode\\sourcecode\\orangehrm_seleniumtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE48EE53-54D8-49EF-8BD3-AE8A9457DE8D}|OrangeHRM_SeleniumTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditEmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\EditEmployeeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\EditEmployeeTest.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\EditEmployeeTest.cs",
+              "RelativeToolTip": "Tests\\EditEmployeeTest.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:45:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchEmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\SearchEmployeeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\SearchEmployeeTest.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\SearchEmployeeTest.cs",
+              "RelativeToolTip": "Tests\\SearchEmployeeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:16:09.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\EmployeeTest.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\EmployeeTest.cs",
+              "RelativeToolTip": "Tests\\EmployeeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEmployeesPage.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Pages\\AddEmployeesPage.cs",
+              "RelativeDocumentMoniker": "Pages\\AddEmployeesPage.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Pages\\AddEmployeesPage.cs",
+              "RelativeToolTip": "Pages\\AddEmployeesPage.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAiwMwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:56:08.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScreenshotHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Utils\\ScreenshotHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\ScreenshotHelper.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Utils\\ScreenshotHelper.cs",
+              "RelativeToolTip": "Utils\\ScreenshotHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:11:20.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Utils\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Utils\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Utils\\ReportManager.cs",
+              "RelativeToolTip": "Utils\\ReportManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:08:35.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "Tests\\LoginTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:03:56.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteEmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\DeleteEmployeeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\DeleteEmployeeTest.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Tests\\DeleteEmployeeTest.cs",
+              "RelativeToolTip": "Tests\\DeleteEmployeeTest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwKwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:30:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeListPage.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Pages\\EmployeeListPage.cs",
+              "RelativeDocumentMoniker": "Pages\\EmployeeListPage.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Pages\\EmployeeListPage.cs",
+              "RelativeToolTip": "Pages\\EmployeeListPage.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAiwKoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:14:51.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:04:43.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Drivers\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "Drivers\\DriverFactory.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Drivers\\DriverFactory.cs",
+              "RelativeToolTip": "Drivers\\DriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:01:20.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emanu\\Downloads\\seleniumTest_orange-hrm\\Selenium_Tests-SourceCode\\SourceCode\\OrangeHRM_SeleniumTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:14.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
